@@ -2,6 +2,10 @@
 
 ![Repo Banner](https://img.shields.io/badge/Game-Unity%20Horror%20Adventure-blue) ![Status](https://img.shields.io/badge/Status-Display%20Only-red) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+![Unity](https://img.shields.io/badge/Engine-Unity%202023.2-blue?logo=unity)  
+![C#](https://img.shields.io/badge/Language-C%23-green?logo=c-sharp)  
+![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)  
+
 > **Note:** This repository is for display purposes only. The game is **incomplete** and missing essential files. It is **not functional** if downloaded from here. The `.exe` file is provided for demonstration only.
 
 ---
@@ -76,11 +80,5 @@
 - Some levels, assets, or scripts are missing.  
 - Intended **only for display** and reference purposes.  
 
----
-
-## 🏆 Badges
-![Unity](https://img.shields.io/badge/Engine-Unity%202023.2-blue?logo=unity)  
-![C#](https://img.shields.io/badge/Language-C%23-green?logo=c-sharp)  
-![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)  
 
 
